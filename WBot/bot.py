@@ -7,3 +7,4 @@ while True:
     auto.write("Python WBot")
     auto.press('enter')
     time.sleep(1)
+    
